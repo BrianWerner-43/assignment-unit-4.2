@@ -1,4 +1,29 @@
+body {
+    border: double gray 3px;
+    text-align: center;
+}
+
+
 header {
     background-color: cornsilk;
     color: blueviolet;
+}
+
+.info h2 {
+    background-color: lightseagreen;
+    color: rgb(12, 89, 104);
+    border: solid gray 3px;
+    
+}
+
+img {
+    width: 80%;
+    height: 100%;
+    border: dotted rgb(116, 193, 116) 5px;
+}
+
+h3 {
+    background-color: lightseagreen;
+    color: rgb(8, 65, 101);
+    border: solid gray 3px;
 }
