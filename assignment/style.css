@@ -1,5 +1,5 @@
 body {
-    border: double gray 3px;
+    border: double gray 5px;
     text-align: center;
 }
 
@@ -11,19 +11,25 @@ header {
 
 .info h2 {
     background-color: lightseagreen;
-    color: rgb(12, 89, 104);
-    border: solid gray 3px;
+    color: rgb(8, 65, 101);
+    border: solid rgb(184, 124, 240) 3px;
     
 }
 
+
+
 img {
+    object-fit: cover;
     width: 80%;
     height: 100%;
     border: dotted rgb(116, 193, 116) 5px;
+    
 }
+
+
 
 h3 {
     background-color: lightseagreen;
     color: rgb(8, 65, 101);
-    border: solid gray 3px;
+    border: solid rgb(184, 124, 240) 3px;
 }
